@@ -16,8 +16,10 @@
 </ol>
 
 #### Imagens:
+<img src="https://github.com/Evanilsondejesus/galeria/blob/main/img/lead_pages_pc.png" >
+<img src="https://github.com/Evanilsondejesus/galeria/blob/main/img/lead_pages_device_phone.jpg" >
 
-
+ 
  
 
 
