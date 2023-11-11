@@ -4,15 +4,16 @@
 <h1  align="center" >Lead-pages</h1>
 
 ###    Projeto  é:
-   O usuário faz o cadastro em troca, receber  um livro grátis,  será enviado pelo seu email.
-    Será o usado plataforma do firebase no plano gratuito,  pra poder guarda informações dos usuários.No Realtime firebase è so
+Capturar informações do usuarios para uma posivel venda posterior, O usuário faz o cadastro em troca  receber  um livro grátis qual será enviado pelo seu email.
+Será o usado a plataforma do Firebase,  pra poder guarda informações dos usuários cadastrado, quantidades de visitas, dispositivos acessados.
 
 #### Para projeto funcionar corretamente, é necessário:
 <ol>
-<li> Fazer cadastro no Firebase</li>
-<li>criar projeto web</li> 
-<li>criar banco de dados realtime</li>
-<li>colocar as crendenciais de autenticação no projeto</li>
+<li>Fazer cadastro no Firebase</li>
+<li>Criar projeto web no Firebase</li> 
+<li>Criar banco de dados realtime no firebase</li>
+<li>Faz o importe do arquivo "captura_de_lids e screen.json" no Realtime firebase</li>
+<li>Colocar as crendenciais de autenticação do projeto do Firebase no projeto Lead-pages</li>
 </ol>
 
 #### Imagens:
