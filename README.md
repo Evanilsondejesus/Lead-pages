@@ -4,8 +4,8 @@
 <h1  align="center" >Lead-pages</h1>
 
 ###    Projeto  é:
-Capturar informações do usuarios para uma posivel venda posterior, O usuário faz o cadastro em troca  receber  um livro grátis qual será enviado pelo seu email.
-Será o usado a plataforma do Firebase,  pra poder guarda informações dos usuários cadastrado, quantidades de visitas, dispositivos acessados.
+Capturar informações do usuarios para uma posivel venda posterior, o usuário faz o cadastro em troca  receber  um livro grátis qual será enviado pelo seu email.
+Será o usado a plataforma do Firebase,  pra poder guarda informações dos usuários cadastrado (quantidades de visitas, dispositivos acessados).
 
 #### Para projeto funcionar corretamente, é necessário:
 <ol>
