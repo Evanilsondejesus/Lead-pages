@@ -7,7 +7,7 @@
 Capturar informações do usuarios para uma posivel venda posterior, o usuário faz o cadastro em troca  receber  um livro grátis qual será enviado pelo seu email.
 Será o usado a plataforma do Firebase,  pra poder guarda informações dos usuários cadastrado (quantidades de visitas, dispositivos acessados).
 
-#### Para projeto funcionar corretamente, é necessário:
+#### Para este projeto funcionar corretamente, é necessário:
 <ol>
 <li>Fazer cadastro no Firebase</li>
 <li>Criar projeto web no Firebase</li> 
